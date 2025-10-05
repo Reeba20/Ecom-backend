@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Angela Corset Dress",
+      "price": 890,
+      "image": "http://localhost:3000/images/bodycon.jpg",
+      "description": "Elegant corset dress for special occasions",
+      "inStock": true,
+      "quantity": 10
+    },
+    {
+      "id": 2,
+      "name": "Mila Glam Pant Set",
+      "price": 800,
+      "image": "http://localhost:3000/images/pink.jpg",
+      "description": "Stylish matching pant set",
+      "inStock": true,
+      "quantity": 15
+    },
+    {
+      "id": 3,
+      "name": "Crochet Cardigan",
+      "price": 750,
+      "image": "http://localhost:3000/images/cardigan.jpg",
+      "description": "Winter Collection",
+      "inStock": true,
+      "quantity": 15
+    },
+    {
+      "id": 4,
+      "name": "White Pant",
+      "price": 800,
+      "image": "http://localhost:3000/images/whitepant.jpg",
+      "description": "Fall Collection",
+      "inStock": true,
+      "quantity": 7
+    },
+    {
+      "id": 5,
+      "name": "Fall Jacket",
+      "price": 1038,
+      "image": "http://localhost:3000/images/jacket.jpg",
+      "description": "Jacket for every occasions",
+      "inStock": true,
+      "quantity": 5
+    },
+    {
+      "id": 6,
+      "name": "Emelia Winter Poncho",
+      "price": 890,
+      "image": "http://localhost:3000/images/poncho.jpg",
+      "description": "Poncho",
+      "inStock": true,
+      "quantity": 7
+    },
+    {
+      "id": 7,
+      "name": "Nevaeh Collection",
+      "price": 1000,
+      "image": "http://localhost:3000/images/shirt.jpg",
+      "description": "Black Shirt",
+      "inStock": true,
+      "quantity": 7
+    },
+    {
+      "id": 8,
+      "name": "Denim Skirt",
+      "price": 600,
+      "image": "http://localhost:3000/images/skirt.jpg",
+      "description": "Classic denim skirt for casual wear",
+      "inStock": true,
+      "quantity": 12
+    }
+  ],
+  "cart": [
+    {
+      "id": "f045",
+      "productId": 7,
+      "name": "Nevaeh Collection",
+      "price": 1000,
+      "image": "http://localhost:3000/images/shirt.jpg",
+      "quantity": 1
+    }
+  ],
+  "wishlist": [],
+  "orders": []
+}
